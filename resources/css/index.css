@@ -7,6 +7,7 @@ header {
     font-size: 70px;
     font-weight: bold;
     color: white;
+    img src: resources/images/the-flatiron-building.png;
 }
 nav {
     font-size: 18px;
