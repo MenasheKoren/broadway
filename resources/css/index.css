@@ -8,6 +8,8 @@ header {
     font-weight: bold;
     color: white;
     background-image: url("../images/the-flatiron-building.png");
+    background-size: cover;
+
 }
 nav {
     font-size: 18px;
