@@ -52,3 +52,12 @@ p {
    background-image: url("../images/the-flatiron-building.png");
 
 }
+
+/*footer*/
+footer {
+    text-align: left;
+    color: white;
+    background-color: dimgray;
+    font-size: 11px
+
+}
