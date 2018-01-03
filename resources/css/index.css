@@ -14,3 +14,11 @@ header {
 nav {
     font-size: 18px;
 }
+main {
+    font-color: dimgray;
+}
+
+h2, h3 {
+  font-size: 32px;
+  font-weight: bold;
+}
