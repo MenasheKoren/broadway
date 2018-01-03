@@ -11,6 +11,8 @@ header {
     font-weight: bold;
     color: white;
     background-image: url("../images/the-flatiron-building.png");
+    display: flex;
+    flex-direction: column;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
