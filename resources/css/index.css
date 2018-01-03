@@ -6,16 +6,14 @@ html {
 
 /* header */
 
-header {
+#header {
     color: white;
     background-image: url("../images/the-flatiron-building.png");
     display: flex;
     flex-direction: column;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
-
-}
+  }
 
 h1 {
   font-size: 70px;
