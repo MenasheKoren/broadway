@@ -43,3 +43,11 @@ h3 {
 p {
   font-size: 14px;
 }
+
+/*minibanner*/
+
+.minibanner {
+   color: white;
+   background-image: url("../images/the-flatiron-building.png");
+   
+}
