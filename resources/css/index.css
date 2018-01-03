@@ -7,8 +7,6 @@ html {
 /* header */
 
 header {
-    font-size: 70px;
-    font-weight: bold;
     color: white;
     background-image: url("../images/the-flatiron-building.png");
     display: flex;
@@ -17,6 +15,11 @@ header {
     background-size: cover;
     background-position: center;
 
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
 }
 
 a {
