@@ -3,6 +3,9 @@ html {
   text-align: center;
 
 }
+
+/* header */
+
 header {
     font-size: 70px;
     font-weight: bold;
@@ -11,14 +14,28 @@ header {
     background-size: cover;
 
 }
-nav {
+
+a {
     font-size: 18px;
-}
-main {
-    color: dimgray;
+    color: white;
 }
 
-h2, h3 {
+/* main */
+
+main {
+  color: black;
+}
+
+h2 {
   font-size: 32px;
   font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
 }
